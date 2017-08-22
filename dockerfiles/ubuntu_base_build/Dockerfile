@@ -39,6 +39,7 @@ RUN set -ex; \
 		xz-utils \
 		zlib1g-dev \
         curl \
+		ca-certificates \
 		\
 # https://lists.debian.org/debian-devel-announce/2016/09/msg00000.html
 		$( \
