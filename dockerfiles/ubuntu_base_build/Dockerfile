@@ -51,7 +51,7 @@ RUN set -ex; \
 			fi \
 		) \
 	; \
-	rm -rf /var/lib/apt/lists/* \
+	rm -rf /var/lib/apt/lists/* 
 RUN useradd -ms /bin/bash ferris
 USER ferris
 WORKDIR /home/ferris
