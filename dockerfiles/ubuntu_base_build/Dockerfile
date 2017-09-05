@@ -55,4 +55,5 @@ RUN set -ex; \
 RUN useradd -ms /bin/bash ferris
 USER ferris
 WORKDIR /home/ferris
+ENV USER ferris
 ENTRYPOINT bash
