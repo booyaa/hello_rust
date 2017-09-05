@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "width": 150,
+  "height": 43,
+  "duration": 87.158842,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.007494,
+      "bash-3.2$ "
+    ],
+    [
+      5.682295,
+      "echo ign"
+    ],
+    [
+      5e-05,
+      "ore the man "
+    ],
+    [
+      9e-06,
+      "beh"
+    ],
+    [
+      7e-06,
+      "in"
+    ],
+    [
+      9e-06,
+      "d "
+    ],
+    [
+      7e-06,
+      "th"
+    ],
+    [
+      9e-06,
+      "e"
+    ],
+    [
+      8e-06,
+      " cu"
+    ],
+    [
+      1e-05,
+      "rt"
+    ],
+    [
+      9e-06,
+      "a"
+    ],
+    [
+      8e-06,
+      "in "
+    ],
+    [
+      1e-05,
+      "&"
+    ],
+    [
+      7e-06,
+      "& "
+    ],
+    [
+      8e-06,
+      "do"
+    ],
+    [
+      9e-06,
+      "c"
+    ],
+    [
+      7e-06,
+      "ke"
+    ],
+    [
+      8e-06,
+      "r"
+    ],
+    [
+      7.7e-05,
+      " "
+    ],
+    [
+      1.1e-05,
+      "run --r"
+    ],
+    [
+      2.2e-05,
+      "m"
+    ],
+    [
+      2.5e-05,
+      " "
+    ],
+    [
+      3e-05,
+      "-"
+    ],
+    [
+      2.3e-05,
+      "-n"
+    ],
+    [
+      8e-06,
+      "a"
+    ],
+    [
+      2e-05,
+      "m"
+    ],
+    [
+      4.2e-05,
+      "e he"
+    ],
+    [
+      8.4e-05,
+      "llo"
+    ],
+    [
+      3.4e-05,
+      "_ru"
+    ],
+    [
+      2.8e-05,
+      "st"
+    ],
+    [
+      9e-06,
+      " -"
+    ],
+    [
+      1.4e-05,
+      "i"
+    ],
+    [
+      2.5e-05,
+      "t "
+    ],
+    [
+      0.000213,
+      "booyaa/hello_"
+    ],
+    [
+      1.4e-05,
+      "rust:base"
+    ],
+    [
+      9e-06,
+      "_"
+    ],
+    [
+      1e-05,
+      "b"
+    ],
+    [
+      8e-06,
+      "u"
+    ],
+    [
+      8e-06,
+      "i"
+    ],
+    [
+      1.3e-05,
+      "l"
+    ],
+    [
+      9e-06,
+      "d"
+    ],
+    [
+      8e-06,
+      " "
+    ],
+    [
+      4.2e-05,
+      "cl"
+    ],
+    [
+      1.7e-05,
+      "e"
+    ],
+    [
+      9e-06,
+      "a"
+    ],
+    [
+      2.1e-05,
+      "r"
+    ],
+    [
+      1.224186,
+      "\r\n"
+    ],
+    [
+      2e-05,
+      "ignore the man behind the curtain\r\n"
+    ],
+    [
+      0.682148,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ "
+    ],
+    [
+      7.521193,
+      "\r\u001b[K\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ curl https://sh.rustup.rs -sSf | sh"
+    ],
+    [
+      1.216563,
+      "\r\n"
+    ],
+    [
+      1.207392,
+      "\u001b[1minfo:\u001b[0m downloading installer\r\n"
+    ],
+    [
+      2.998833,
+      "\u001b[1m\r\nWelcome to Rust!\r\n\u001b(B\u001b[m\r\nThis will download and install the official compiler for the Rust programming \r\nlanguage, and its package manager, Cargo.\r\n\r\nIt will add the \u001b[1mcargo\u001b(B\u001b[m, \u001b[1mrustc\u001b(B\u001b[m, \u001b[1mrustup\u001b(B\u001b[m and other commands to Cargo's bin \r\ndirectory, located at:\r\n\r\n  /home/ferris/.cargo/bin\r\n\r\nThis path will then be added to your \u001b[1mPATH\u001b(B\u001b[m environment variable by modifying the\r\nprofile file located at:\r\n\r\n  /home/ferris/.profile\r\n\r\nYou can uninstall at any time with \u001b[1mrustup self uninstall\u001b(B\u001b[m and these changes will\r\nbe reverted.\r\n"
+    ],
+    [
+      0.016088,
+      "\r\nCurrent installation options:\r\n\r\n\u001b[1m   \u001b(B\u001b[mdefault host triple: \u001b[1mx86_64-unknown-linux-gnu\u001b(B\u001b[m\r\n\u001b[1m     \u001b(B\u001b[mdefault toolchain: \u001b[1mstable\u001b(B\u001b[m\r\n  modify PATH variable: \u001b[1myes\u001b(B\u001b[m\r\n\r\n1) Proceed with installation (default)\r\n2) Customize installation\r\n3) Cancel installation\r\n"
+    ],
+    [
+      3.557399,
+      "\r\n\r\n"
+    ],
+    [
+      0.032652,
+      "\u001b[1minfo: \u001b(B\u001b[msyncing channel updates for 'stable-x86_64-unknown-linux-gnu'\r\n"
+    ],
+    [
+      0.140568,
+      "\u001b[1minfo: \u001b(B\u001b[mlatest update on 2017-08-31, rust version 1.20.0 (f3d6973f4 2017-08-27)\r\n\u001b[1minfo: \u001b(B\u001b[mdownloading component 'rustc'\r\n"
+    ],
+    [
+      1.014348,
+      "  5.4 MiB /  38.3 MiB ( 14 %)   0 B/s ETA: Unknown                "
+    ],
+    [
+      1.004992,
+      "\r 10.5 MiB /  38.3 MiB ( 28 %)   5.4 MiB/s ETA:   5 s                "
+    ],
+    [
+      1.000478,
+      "\r 16.7 MiB /  38.3 MiB ( 44 %)   5.3 MiB/s ETA:   4 s                "
+    ],
+    [
+      1.006531,
+      "\r 22.6 MiB /  38.3 MiB ( 59 %)   5.6 MiB/s ETA:   3 s                "
+    ],
+    [
+      1.000113,
+      "\r 28.5 MiB /  38.3 MiB ( 74 %)   5.7 MiB/s ETA:   2 s                "
+    ],
+    [
+      1.002328,
+      "\r 33.8 MiB /  38.3 MiB ( 88 %)   5.7 MiB/s ETA:   1 s                "
+    ],
+    [
+      0.858466,
+      "\r 38.3 MiB /  38.3 MiB (100 %)   5.7 MiB/s ETA:   0 s                \r\r\n"
+    ],
+    [
+      0.000233,
+      "\u001b[1minfo: \u001b(B\u001b[mdownloading component 'rust-std'\r\n"
+    ],
+    [
+      1.020263,
+      "  6.1 MiB /  57.9 MiB ( 11 %)   0 B/s ETA: Unknown                "
+    ],
+    [
+      1.002031,
+      "\r 12.2 MiB /  57.9 MiB ( 21 %)   6.1 MiB/s ETA:   7 s                "
+    ],
+    [
+      1.000352,
+      "\r 17.8 MiB /  57.9 MiB ( 31 %)   6.1 MiB/s ETA:   7 s                "
+    ],
+    [
+      1.005512,
+      "\r 24.0 MiB /  57.9 MiB ( 41 %)   5.9 MiB/s ETA:   6 s                "
+    ],
+    [
+      1.001473,
+      "\r 30.2 MiB /  57.9 MiB ( 52 %)   6.0 MiB/s ETA:   5 s                "
+    ],
+    [
+      1.002185,
+      "\r 36.2 MiB /  57.9 MiB ( 63 %)   6.0 MiB/s ETA:   4 s                "
+    ],
+    [
+      1.005555,
+      "\r 42.3 MiB /  57.9 MiB ( 73 %)   6.0 MiB/s ETA:   3 s                "
+    ],
+    [
+      1.00063,
+      "\r 47.9 MiB /  57.9 MiB ( 83 %)   6.0 MiB/s ETA:   2 s                "
+    ],
+    [
+      1.000129,
+      "\r 53.2 MiB /  57.9 MiB ( 92 %)   6.0 MiB/s ETA:   1 s                "
+    ],
+    [
+      0.927719,
+      "\r 57.9 MiB /  57.9 MiB (100 %)   5.8 MiB/s ETA:   0 s                \r\r\n"
+    ],
+    [
+      0.000133,
+      "\u001b[1minfo: \u001b(B\u001b[mdownloading component 'cargo'\r\n"
+    ],
+    [
+      0.673961,
+      "\u001b[1minfo: \u001b(B\u001b[mdownloading component 'rust-docs'\r\n"
+    ],
+    [
+      0.635851,
+      "\u001b[1minfo: \u001b(B\u001b[minstalling component 'rustc'\r\n"
+    ],
+    [
+      2.882714,
+      "\u001b[1minfo: \u001b(B\u001b[minstalling component 'rust-std'\r\n"
+    ],
+    [
+      4.205549,
+      "\u001b[1minfo: \u001b(B\u001b[minstalling component 'cargo'\r\n"
+    ],
+    [
+      0.638226,
+      "\u001b[1minfo: \u001b(B\u001b[minstalling component 'rust-docs'\r\n"
+    ],
+    [
+      1.341852,
+      "\u001b[1minfo: \u001b(B\u001b[mdefault toolchain set to 'stable'\r\n\r\n"
+    ],
+    [
+      0.020924,
+      "  \u001b[1m\u001b[32mstable installed\u001b(B\u001b[m - rustc 1.20.0 (f3d6973f4 2017-08-27)\r\n\r\n"
+    ],
+    [
+      0.035957,
+      "\u001b[1m\r\nRust is installed now. Great!\r\n\u001b(B\u001b[m\r\nTo get started you need Cargo's bin directory ($HOME/.cargo/bin) in your \u001b[1mPATH\u001b(B\u001b[m \r\nenvironment variable. Next time you log in this will be done automatically.\r\n\r\nTo configure your current shell run \u001b[1msource $HOME/.cargo/env\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.006757,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ \u001b[K"
+    ],
+    [
+      9.027251,
+      "source $HOME/.cargo/env"
+    ],
+    [
+      0.675389,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ "
+    ],
+    [
+      1.228535,
+      "r"
+    ],
+    [
+      0.634557,
+      "ustup"
+    ],
+    [
+      0.009457,
+      " "
+    ],
+    [
+      0.892412,
+      "-"
+    ],
+    [
+      0.064443,
+      "V"
+    ],
+    [
+      0.388006,
+      " "
+    ],
+    [
+      0.470126,
+      ";"
+    ],
+    [
+      0.113818,
+      " "
+    ],
+    [
+      0.49887,
+      "r"
+    ],
+    [
+      0.378627,
+      "\b \b"
+    ],
+    [
+      0.542902,
+      "r"
+    ],
+    [
+      0.0379,
+      "u"
+    ],
+    [
+      0.082182,
+      "s"
+    ],
+    [
+      0.494835,
+      "t"
+    ],
+    [
+      0.155695,
+      "c"
+    ],
+    [
+      1.072658,
+      " "
+    ],
+    [
+      0.16059,
+      "-"
+    ],
+    [
+      0.157501,
+      "V "
+    ],
+    [
+      0.603918,
+      ";"
+    ],
+    [
+      0.068863,
+      " "
+    ],
+    [
+      0.677244,
+      "c"
+    ],
+    [
+      0.079797,
+      "a"
+    ],
+    [
+      0.039882,
+      "r"
+    ],
+    [
+      0.200536,
+      "g"
+    ],
+    [
+      0.182714,
+      "o"
+    ],
+    [
+      0.062439,
+      " "
+    ],
+    [
+      0.531699,
+      "-"
+    ],
+    [
+      0.005698,
+      "V"
+    ],
+    [
+      0.91644,
+      "\r\n"
+    ],
+    [
+      0.001601,
+      "rustup 1.6.0 (a11c01e8c 2017-08-30)\r\n"
+    ],
+    [
+      0.021215,
+      "rustc 1.20.0 (f3d6973f4 2017-08-27)\r\n"
+    ],
+    [
+      0.013556,
+      "cargo 0.21.0 (5b4b8b2ae 2017-08-12)\r\n"
+    ],
+    [
+      0.001478,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ \u001b[K"
+    ],
+    [
+      5.183947,
+      "ru"
+    ],
+    [
+      0.143492,
+      "stp"
+    ],
+    [
+      0.778374,
+      "\b \b"
+    ],
+    [
+      0.005103,
+      "\b \b"
+    ],
+    [
+      0.919561,
+      "t"
+    ],
+    [
+      0.049176,
+      " "
+    ],
+    [
+      1.465325,
+      "s"
+    ],
+    [
+      0.059645,
+      "h"
+    ],
+    [
+      0.035494,
+      "o"
+    ],
+    [
+      0.111655,
+      "w"
+    ],
+    [
+      0.199972,
+      "\r\n"
+    ],
+    [
+      0.000287,
+      "bash: rust: command not found\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ "
+    ],
+    [
+      1.402216,
+      "r"
+    ],
+    [
+      0.126289,
+      "u"
+    ],
+    [
+      0.070636,
+      "s"
+    ],
+    [
+      0.080429,
+      "t"
+    ],
+    [
+      0.080699,
+      "u"
+    ],
+    [
+      0.006541,
+      "p"
+    ],
+    [
+      0.153187,
+      " "
+    ],
+    [
+      0.161443,
+      "s"
+    ],
+    [
+      0.11823,
+      "h"
+    ],
+    [
+      0.039427,
+      "o"
+    ],
+    [
+      0.135433,
+      "w"
+    ],
+    [
+      0.225956,
+      "\r\n"
+    ],
+    [
+      0.002075,
+      "\u001b[1mDefault host: \u001b(B\u001b[mx86_64-unknown-linux-gnu\r\n\r\n"
+    ],
+    [
+      0.005224,
+      "stable-x86_64-unknown-linux-gnu (default)\r\n"
+    ],
+    [
+      0.020228,
+      "rustc 1.20.0 (f3d6973f4 2017-08-27)\r\n"
+    ],
+    [
+      0.000691,
+      "\u001b]0;ferris@8bab4e6c0ad1: ~\u0007ferris@8bab4e6c0ad1:~$ "
+    ],
+    [
+      2.870027,
+      "exit\r\n"
+    ],
+    [
+      0.617811,
+      "bash-3.2$ "
+    ]
+  ]
+}
