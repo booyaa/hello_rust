@@ -69,15 +69,43 @@ source $HOME/.cargo/env && export USER=ferris && clear
 ```
 rustup show 
 # first line is the target is x86_64-unknown-linux-gnu (macos would be x86_64-apple-darwin)
-# second ine tells you which release channel you using (stable)
-# third is the version of the compler
+# second line tells you which release channel you using (stable)
+# third line is the version of the compler
 
 rustup install nightly
 rustup show
 # note which channel is the default (stable)
 
-cargo new --bin nightly_project
-cd nightly_project
+cargo new --bin stable
+cd stable
+cat > src/main.rs <<EOF
+fn main() {
+    for i in 1..11 { 
+        print!("{} ", i);
+    }
+    println!("");
+    // output: 1 2 3 4 5 6 7 8 9 10
+}
+EOF
+cargo run
+
+cd ..
+cargo new --bin nightly
+cd nightly
+cat > src/main.rs<<EOF
+#![feature(inclusive_range_syntax)]
+
+fn main() {
+    for i in 1...10 { 
+        print!("{} ", i);
+    }
+    println!("");
+    // output: 1 2 3 4 5 6 7 8 9 10
+}
+EOF
+rustup show
+cargo run
+
 rustup override set nightly
 rustup show # note the last line, we're going to use the nightly compiler
 ```
